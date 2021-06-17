@@ -1,0 +1,100 @@
+#myVideo {
+    position:relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  
+  .content {
+    position: fixed;
+    bottom: 30px;
+    background:rgba(0,0, 0,0,5);
+    color:rgb;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+  }
+
+  
+     h2{
+      
+      padding-left: 43%;
+        color:#4c9207;
+        text-transform: capitalize;
+        font-family: consolas;
+        border-right:#695b0a;
+        animation:typist 15s steps(18) infinite, caret 1.7s infinite step-end;
+   white-space:nowrap ;
+   overflow: hidden;
+   }
+   @keyframes caret{
+       0%, 100%{
+           border-color: transparent;}
+           50%{border-color: lack;}
+       }
+   @keyframes typist {
+       0%{width: 0ch;}
+       30%{with:18ch;}
+   80%{width: 18ch;}
+   90%{width: 0ch;}
+   100%{width: 0ch;}
+   }
+  
+  .r{
+padding-right: 70%;
+margin-top: right;
+  }
+  .aphelele{
+    background-image: url("G(2).jpg");
+  }
+  .nav{
+     
+     
+    background-image: linear-gradient(#404240d3,rgba(0,0,0,0.7)),url(./20.jpg)
+  
+  }
+  
+.r{
+      
+    padding-left: 43%;
+      color:hsl(120, 84%, 41%);
+      text-transform: capitalize;
+      font-family: consolas;
+      border-right:darkgoldenrod;
+      animation:typist 15s steps(18) infinite, caret 1.7s infinite step-end;
+ white-space:nowrap ;
+ overflow: hidden;
+ }
+ @keyframes caret{
+     0%, 100%{
+         border-color: transparent;}
+         50%{border-color: lack;}
+     }
+ @keyframes typist {
+     0%{width: 0ch;}
+     30%{with:18ch;}
+ 80%{width: 18ch;}
+ 90%{width: 0ch;}
+ 100%{width: 0ch;}
+ }
+ 
+ .im{
+padding-right: 70%;
+margin-top: 50%;
+ }
+     
+  .text{
+    font-size:x-large;
+    color: whitesmoke;
+    font-style: italic;
+    font-weight: bold;
+  } 
+   
+  h4{
+    background-color: #4c9207;
+  }
+
+
